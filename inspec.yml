@@ -1,0 +1,8 @@
+name: drupalcon
+title: Security Settings for Drupal
+maintainer: Matt Stratton
+copyright: Matt Stratton
+copyright_email: mattstratton@chef.io
+license: All Rights Reserved
+summary: The security settings we need for doing the Drupal
+version: 0.1.0
